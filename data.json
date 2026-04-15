@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Coorg",
+    "type": "hill",
+    "budget": "medium",
+    "description": "Beautiful hill station in Karnataka",
+    "best_time": "October to March",
+    "image": "coorg.jpg"
+  },
+  {
+    "name": "Ooty",
+    "type": "hill",
+    "budget": "low",
+    "description": "Cool climate and scenic beauty",
+    "best_time": "March to June",
+    "image": "ooty.jpg"
+  },
+  {
+    "name": "Goa",
+    "type": "beach",
+    "budget": "high",
+    "description": "Famous for beaches and nightlife",
+    "best_time": "November to February",
+    "image": "goa.jpg"
+  },
+  {
+    "name": "Varanasi",
+    "type": "temple",
+    "budget": "low",
+    "description": "Spiritual city on the Ganges",
+    "best_time": "October to March",
+    "image": "varanasi.jpg"
+  }
+]
